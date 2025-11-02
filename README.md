@@ -15,8 +15,8 @@ To receive announcements as email, watch this repository:
 1. Create a github account.
 
 2. Navigate back to here
-(https://github.com/verilator/verilator-announce[Subscribe to verilator
-announcements]) and click "Watch" in the upper right as shown here:
+([Subscribe to Verilator Announcements](https://github.com/verilator/verilator-announce))
+and click "Watch" in the upper right as shown below:
 
 ![image](https://github.com/verilator/verilator-announce/blob/master/img/watching.png)
 
